@@ -1,0 +1,6 @@
+com/example/articlesite/service/BaserowService.class
+com/example/articlesite/ArticlesiteApplication.class
+com/example/articlesite/model/Article.class
+com/example/articlesite/controller/ArticleController.class
+com/example/articlesite/dto/ArticleDto.class
+com/example/articlesite/config/HttpConfig.class
